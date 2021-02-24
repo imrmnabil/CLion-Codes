@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="untitled1" targetName="untitled1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a4ff1fcc-ea9e-4122-ac5c-e48c262d4145" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1k2cJcVEmgfrnzr8lf9nVPSBcGz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="untitled1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="untitled1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="untitled1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4ff1fcc-ea9e-4122-ac5c-e48c262d4145" name="Default Changelist" comment="" />
+      <created>1604902055603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604902055603</updated>
+      <workItem from="1604902056809" duration="78000" />
+      <workItem from="1604902207783" duration="86000" />
+      <workItem from="1605107263964" duration="1664000" />
+      <workItem from="1606651446890" duration="52000" />
+      <workItem from="1606832183900" duration="117000" />
+      <workItem from="1606832449602" duration="284000" />
+      <workItem from="1606834113190" duration="313000" />
+      <workItem from="1606836367633" duration="1223000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1860" height="477" key="GridCell.Tab.0.bottom" timestamp="1606837841195">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1860" height="477" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1606837841195" />
+    <state width="1860" height="477" key="GridCell.Tab.0.center" timestamp="1606837841195">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1860" height="477" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1606837841195" />
+    <state width="1860" height="477" key="GridCell.Tab.0.left" timestamp="1606837841195">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1860" height="477" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1606837841195" />
+    <state width="1860" height="477" key="GridCell.Tab.0.right" timestamp="1606837841195">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1860" height="477" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1606837841195" />
+  </component>
+</project>

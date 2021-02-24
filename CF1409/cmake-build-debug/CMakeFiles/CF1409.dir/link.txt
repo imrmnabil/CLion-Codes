@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\CF1409.dir/objects.a
+C:\TDM-GCC-64\bin\ar.exe cr CMakeFiles\CF1409.dir/objects.a @CMakeFiles\CF1409.dir\objects1.rsp
+C:\TDM-GCC-64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\CF1409.dir/objects.a -Wl,--no-whole-archive  -o CF1409.exe -Wl,--out-implib,libCF1409.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CF1409.dir\linklibs.rsp

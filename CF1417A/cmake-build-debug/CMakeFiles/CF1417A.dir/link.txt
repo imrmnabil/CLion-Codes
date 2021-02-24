@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/CF1417A.dir/main.c.o  -o CF1417A 
