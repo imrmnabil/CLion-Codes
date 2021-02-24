@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="untitled" targetName="untitled" />
+      <config projectName="untitled4" targetName="untitled4" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b12643f7-da68-4cdd-b8dd-c3f89b542294" name="Default Changelist" comment="" />
+    <list default="true" id="788975c8-087d-4090-b7c2-30b026f431f8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,15 +21,21 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
-  <component name="ProjectId" id="1hy8nRO7lr5Xk4ErpHdaBYVkQLg" />
+  <component name="ProjectId" id="1kYkRjZ8BF7sWBJlwSIP0L3WWoT" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RunManager">
@@ -38,7 +44,7 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="untitled" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="untitled" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled" RUN_TARGET_NAME="untitled">
+    <configuration name="untitled4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled4" TARGET_NAME="untitled4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled4" RUN_TARGET_NAME="untitled4">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -52,31 +58,34 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b12643f7-da68-4cdd-b8dd-c3f89b542294" name="Default Changelist" comment="" />
-      <created>1600972138059</created>
+      <changelist id="788975c8-087d-4090-b7c2-30b026f431f8" name="Default Changelist" comment="" />
+      <created>1605884907061</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1600972138059</updated>
-      <workItem from="1600972139736" duration="23000" />
+      <updated>1605884907061</updated>
+      <workItem from="1605884908851" duration="1925000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1340" height="265" key="GridCell.Tab.0.bottom" timestamp="1600972161856">
+    <state width="914" height="284" key="GridCell.Tab.0.bottom" timestamp="1605886933356">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1340" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1600972161856" />
-    <state width="1340" height="265" key="GridCell.Tab.0.center" timestamp="1600972161856">
+    <state width="914" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1605886933356" />
+    <state width="914" height="284" key="GridCell.Tab.0.center" timestamp="1605886933356">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1340" height="265" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1600972161856" />
-    <state width="1340" height="265" key="GridCell.Tab.0.left" timestamp="1600972161856">
+    <state width="914" height="284" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1605886933356" />
+    <state width="914" height="284" key="GridCell.Tab.0.left" timestamp="1605886933356">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1340" height="265" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1600972161856" />
-    <state width="1340" height="265" key="GridCell.Tab.0.right" timestamp="1600972161856">
+    <state width="914" height="284" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1605886933356" />
+    <state width="914" height="284" key="GridCell.Tab.0.right" timestamp="1605886933356">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1340" height="265" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1600972161856" />
+    <state width="914" height="284" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1605886933356" />
   </component>
 </project>
